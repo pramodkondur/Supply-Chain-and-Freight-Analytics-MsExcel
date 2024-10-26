@@ -1,5 +1,3 @@
-# Supply-Chain-and-Freight-Analytics-MsExcel
-
 # Supply Chain and Freight Analytics Using Excel
 
 ## Overview
