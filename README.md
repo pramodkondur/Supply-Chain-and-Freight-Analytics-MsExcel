@@ -2,7 +2,7 @@
 
 ## Overview
 
-The primary goal of the Supply Chain and Freight Analytics Using Excel project is to demonstrate the effective use of Excel for analyzing freight data to enhance supply chain operations. 
+The primary goal of this Supply Chain and Freight Analytics project is to demonstrate the effective use of Excel for analyzing supply chain, and freight data to enhance supply chain operations. 
 
 ## Dataset Description
 
